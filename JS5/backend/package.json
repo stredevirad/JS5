@@ -1,0 +1,17 @@
+{
+    "name": "your-app-name",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^6.10.0",
+      "bcryptjs": "^2.4.3",
+      "jsonwebtoken": "^8.5.1",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
